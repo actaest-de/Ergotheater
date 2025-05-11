@@ -1,3 +1,4 @@
-# actaest.de
+# ergotheater.de
 
-Acta Est theatre studio public website
+eine Partnerseite vom "Acta Est Theaterstudio"
+under constraction
