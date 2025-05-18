@@ -6638,7 +6638,7 @@ li.nav-item .btn-white {
   .cover-2 .navbar-nav {
     margin: auto; }
     .cover-2 .navbar-nav .nav-link {
-      border-bottom: 1px solid #E83C3F;
+      border-bottom: 2px solid green;
       color: white;
       font-weight: 500;
       text-shadow: 0 0 50px #f7f7f8;
