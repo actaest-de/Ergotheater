@@ -23,6 +23,7 @@
   --success: #28a745;
   --info: #17a2b8;
   --top: #0aab07
+  --insta:#eb1e8b  
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #f8f9fa;
@@ -1736,6 +1737,29 @@ fieldset:disabled a.btn {
     border-color: #107f37; }
     .btn-top:not(:disabled):not(.disabled):active:focus, .btn-top:not(:disabled):not(.disabled).active:focus,
     .show > .btn-top.dropdown-toggle:focus {
+      box-shadow: 0 0 0 0.2rem rgba(23, 162, 184, 0.5); }
+
+.btn-insta {
+  color: #fff;
+  background-color: #eb1e8b;
+  border-color: #eb1e8b; }
+  .btn-insta:hover {
+    color: #fff;
+    background-color: #eb1e8b;
+    border-color: #eb1e8b; }
+  .btn-insta:focus, .btn-insta.focus {
+    box-shadow: 0 0 0 0.2rem rgba(23, 162, 184, 0.5); }
+  .btn-insta.disabled, .btn-insta:disabled {
+    color: #fff;
+    background-color:#eb1e8b;
+    border-color: #eb1e8b; }
+  .btn-insta:not(:disabled):not(.disabled):active, .btn-insta:not(:disabled):not(.disabled).active,
+  .show > .btn-insta.dropdown-toggle {
+    color: #fff;
+    background-color: #eb1e8b;
+    border-color: #eb1e8b; }
+    .btn-insta:not(:disabled):not(.disabled):active:focus, .btn-insta:not(:disabled):not(.disabled).active:focus,
+    .show > .btn-insta.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(23, 162, 184, 0.5); }
 
 .btn-warning {
